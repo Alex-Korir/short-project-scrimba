@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+.container {
+  font-family: "Inter", sans-serif;
+  /* text-align: center; */
+  padding: 0 35px;
+  width: 19.8125em;
+}
+.fields {
+  text-align: center;
+}
+.fields h1 {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+}
+.fields p {
+  color: #f3bf99;
+  font-size: 12.8px;
+  line-height: 15px;
+}
+.fields a {
+  font-size: 10.24px;
+  color: white;
+  text-decoration: none;
+  line-height: 150%;
+  font-weight: 400;
+}
+.email {
+  width: 100%;
+  padding: 9px 13px 9px 11px;
+}
+.portfolio h3 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.portfolio p {
+  font-size: 10.24px;
+  font-weight: 400;
+  line-height: 15px;
+}
